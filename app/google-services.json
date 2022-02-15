@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "952577249275",
+    "project_id": "anthenasquare",
+    "storage_bucket": "anthenasquare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952577249275:android:0a3beaca8f3cccbbc9855e",
+        "android_client_info": {
+          "package_name": "com.charan.anthenasquare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952577249275-d62qu4icv6qpmusghj81gjgqq73ndl5c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.charan.anthenasquare",
+            "certificate_hash": "d59587748a6b364904d29deb2d01cd3061bb9acd"
+          }
+        },
+        {
+          "client_id": "952577249275-oib2bfe5tn320u611h1trrqkublc5sda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsEYRtVoTBMBiXTFoPhUrvU96kLdnG35I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952577249275-oib2bfe5tn320u611h1trrqkublc5sda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
